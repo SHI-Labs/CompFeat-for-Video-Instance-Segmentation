@@ -1,9 +1,8 @@
 # CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation
-# CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation
 
-This is the repo to host the dataset TextSeg and code for ComFeat from the following paper:
+This is the repo to host the code for ComFeat of the following paper:
 
-**CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation**, [ArXiv Link]() 
+**CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation**, AAAI 2021 [ArXiv Link]() 
 
 Yang Fu, Linjie Yang, Ding Liu, Thomas S. Huang and Humphrey Shi.
 
