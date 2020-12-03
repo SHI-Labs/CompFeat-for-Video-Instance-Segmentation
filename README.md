@@ -24,7 +24,7 @@ Our proposed CompFeat achieves the state-of-the-art results on the challenging Y
 @article{fu2021compfeat,
   title={CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation},
   author={Yang Fu, Linjie Yang, Ding Liu, Thomas S. Huang and Humphrey Shi},
-  journal={AAAI},
+  journal={AAAI Conference on Artificial Intelligence},
   year={2021}
 }
 ```
