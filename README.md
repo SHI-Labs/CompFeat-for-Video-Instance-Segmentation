@@ -2,9 +2,9 @@
 
 This is the repo to host the code for ComFeat of the following paper:
 
-**CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation**, AAAI 2021 [ArXiv Link]() 
+**CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation**, AAAI 2021 [ArXiv Link](https://arxiv.org/abs/2012.03400) 
 
-Yang Fu, Linjie Yang, Ding Liu, Thomas S. Huang and Humphrey Shi.
+[Yang Fu](http://ifp-uiuc.github.io/), [Linjie Yang](https://scholar.google.com/citations?user=XptEO8oAAAAJ&hl=en), [Ding Liu](https://scholar.google.com/citations?user=PGtHUI0AAAAJ&hl=en), [Thomas S. Huang](http://ifp-uiuc.github.io/) and [Humphrey Shi](https://www.humphreyshi.com).
 
 **Note:**
 Our code will be released here, stay tuned.
